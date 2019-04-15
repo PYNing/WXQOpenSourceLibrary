@@ -249,3 +249,7 @@ rm ~/Library/Caches/CocoaPods/search_index.json
  pod spec lint --allow-warnings //验证远程服务器的库是否正确 spec换成 lib的话就是验证本地库是否正确
  pod trunk push WXQOpenSourceLibrary.podspec //上传代码
 ```
+
+##### 以上。
+
+##### 简书文章地址：[制作一个带版本的CocoaPods开源三方库并托管到GitHub](https://www.jianshu.com/p/d80c53e88490)
